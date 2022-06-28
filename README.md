@@ -1,8 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-### Hello Microverse
+# Hello Microverse
 This project is about introduction to Microverse.
 
 ## Built With
@@ -15,27 +13,30 @@ None
 
 
 ## Getting Started
-
-- open this repo and clone it to view it on the webpage.[Oscar's repo](https://github.com/Oscah01/Hello-microverse/)
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+- Install git bash to your machine to enable you to clone this repo.
+- install Visual Studio to be able to host a local live version.
+- Install a browser to view the local live version.
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Internet connection
+- A github account
+
 ### Setup
 
-### Install
+-Open your GitHub account the repository's [link](https://github.com/Oscah01/Hello-microverse)
 
-### Usage
+### Install
+- copy the repo's link and clone it by writing `git clone https://github.com/Oscah01/Hello-microverse.git` on your git bash terminal.
 
 ### Run tests
 
-### Deployment
+- You can check for errors by running linter tests found in the github flows.
 
+### Deployment
+- Click on 'go live' on your visual studio to view the project live on your local machine.
 
 
 ## Authors
@@ -43,20 +44,16 @@ To get a local copy up and running follow these simple example steps.
 👤 **Oscar Deus**
 
 - GitHub: [@Oscar deus](https://github.com/Oscah01/)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@killer_pip](https://twitter.com/@killer_pip)
+- LinkedIn: [OscahDeus](https://linkedin.com/in/OscahDeus)
 
 ## 🤝 Contributing
 
+ None
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Oscah01/Hello-microverse/issues).
 
 ## Show your support
 
